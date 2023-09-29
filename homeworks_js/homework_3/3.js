@@ -20,3 +20,4 @@ function maxNumber(a, b, c) {
 }
 
 maxNumber(num1, num2, num3);
+

@@ -22,3 +22,4 @@ if (!Number.isFinite(salary)) {
     `Размер заработной платы за вычетом налогов равен ${netSalary(salary)}`
   );
 }
+

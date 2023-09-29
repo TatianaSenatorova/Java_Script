@@ -12,3 +12,4 @@ const cub = (num) => {
 };
 
 console.log(cub(4));
+

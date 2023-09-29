@@ -40,3 +40,4 @@ console.log(summ(2, 6));
 console.log(difference(2, 6));
 console.log(multiplication(2, 6));
 console.log(division(2, 6));
+
