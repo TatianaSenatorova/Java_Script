@@ -30,3 +30,5 @@ console.log(arr);
 console.log(summ);
 console.log(minNumber);
 console.log(newArray);
+
+
